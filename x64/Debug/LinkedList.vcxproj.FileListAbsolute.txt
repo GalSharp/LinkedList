@@ -1,0 +1,1 @@
+C:\Работа\C++\Лабораторная работа №3\LinkedList\x64\Debug\LinkedList.exe
